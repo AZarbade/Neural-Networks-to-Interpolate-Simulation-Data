@@ -23,7 +23,8 @@ Click [here](https://drive.google.com/file/d/1BHDMZEZtfBrlbOZQ3eBgxldSINg1pQ0v/v
 
 ---
 
-<!-- ## 💪 To - Do -->
+## 💪 To - Do
 
-<!-- - [ ] to do here -->
+- [ ] Add proper citations and references:
+<span style="color:red;">there are some tools and materials used which are not cited properly or are missing</span>
 ---
