@@ -12,7 +12,7 @@
 
 ## 🛠 Current Implementation
 
-Click [here](https://drive.google.com/file/d/1BHDMZEZtfBrlbOZQ3eBgxldSINg1pQ0v/view?usp=share_link) to view the full report
+Click [here](https://drive.google.com/file/d/1u9z6Zxgk464QYY0wvhRYTOYetUc8E7N2/view?usp=share_link) to view the full report
 
 - **[Multi Layer Perceptron - MLP](LINK)** - A simple MLP neural network is being used to predict the results. MLP [baseline](https://wandb.ai/wrongcolor/HVIS_Baseline?workspace=user-wrongcolor), here Loss: mean_squared_error and root_mean_squared_error.. Hyper-parmeters were tunned to minimize the validation loss.
 - **[Impact of Pre-Processing](https://wandb.ai/wrongcolor/HVIS_PreProcessingCheck?workspace=user-wrongcolor)** - Detailed view and logs for checking **impact of pre-processing on loss**. Here, Loss: mean_squared_error and root_mean_squared_error.
