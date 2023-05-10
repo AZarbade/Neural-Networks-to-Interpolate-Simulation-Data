@@ -1,5 +1,5 @@
 <h1 align="center">Neural Networks to Interpolate</h1>
-<h3 align="center">Simulation Data at the Parameter Limits</h3>
+<h1 align="center">Simulation Data at the Parameter Limits</h1>
 
 ---
 ## About This Project
